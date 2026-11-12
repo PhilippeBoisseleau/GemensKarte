@@ -1,7 +1,7 @@
 # GemensKarte — Architecture technique
 
 Backend et intégrations de **GemensKarte**, la carte des associations de
-l'Ouest (Bretagne, Pays de la Loire, Normandie).
+l'Ouest (Bretagne, Pays de la Loire, Normandie).$!=^!=
 
 > La **direction artistique / le front** sont traités à part. Ce document
 > couvre l'**API, la base de données géographique, la recherche et l'import
